@@ -1,0 +1,16 @@
+.videoSidebar {
+    position: absolute;
+    top: 20%;
+    right: 10px;
+    color: white;
+}
+
+.videoSidebar__button {
+    padding: 20px;
+    text-align: center;
+
+}
+
+.videoSidebar__button > .MuiSvgIcon-root:hover {
+    cursor: pointer;
+}
